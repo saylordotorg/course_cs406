@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS406: Information Security"
+course_description: "An introduction to the fundamentals of information security. Topics include computer security technology and principles, access control mechanisms, cryptography algorithms, software security, physical security, and security management and risk assessment."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Physical Security** <span id="7"></span> 
 *Physical securityis the protection of personnel, hardware, programs,
 networks, and data from physical circumstances and events that could

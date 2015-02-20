@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS406: Information Security"
+course_description: "An introduction to the fundamentals of information security. Topics include computer security technology and principles, access control mechanisms, cryptography algorithms, software security, physical security, and security management and risk assessment."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Security Solutions** <span id="5"></span> 
 *In this unit, we explore some of the common solutions for security
 issues that are currently in use. For securing web-based applications

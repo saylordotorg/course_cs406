@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS406: Information Security"
+course_description: "An introduction to the fundamentals of information security. Topics include computer security technology and principles, access control mechanisms, cryptography algorithms, software security, physical security, and security management and risk assessment."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Access Control Mechanisms** <span id="4"></span> 
 *Access control is a system that enables an authority to control access
 to areas and resources in a given physical facility or computer-based

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS406: Information Security"
+course_description: "An introduction to the fundamentals of information security. Topics include computer security technology and principles, access control mechanisms, cryptography algorithms, software security, physical security, and security management and risk assessment."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Malicious Software and Software Security** <span
 id="8"></span> 
 *In this unit, we will explore malicious software, also known as
